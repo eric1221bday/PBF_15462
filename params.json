@@ -1,0 +1,6 @@
+{
+  "name": "Pbf 15462",
+  "tagline": "fluid simulation using Position Based Fluids and Marching Cubes",
+  "body": "Project by Eric Fang\r\n\r\n### Project Proposal\r\nProposing to create a real time fluid simulator using Position Based techniques and generating mesh using marching cubes algorithm. The final result ideally would be similar to the results of the original paper by Macklin et. al. Shown below is their result\r\n\r\n![PBF result](https://i.ytimg.com/vi/F5KuP6qEuew/maxresdefault.jpg)\r\n\r\n### Steps\r\n1. Implement Position Based Fluid simulator using algorithm described in [Macklin et. al.](http://mmacklin.com/pbf_sig_preprint.pdf).\r\n2. Implement Marching Cubes Algorithm to generate fluid mesh\r\n2. Implement OpenGL code for real time viewing and interaction\r\n\r\n### Authors and Contributors\r\nEric Fang (@eric1221bday)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
